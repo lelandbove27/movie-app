@@ -5,7 +5,7 @@
  import MovieCard from './MovieCard';
  
 
- const OMDB_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=45ee9669';
+ const OMDB_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=45ee9669';
 
 const App = () => {
 
