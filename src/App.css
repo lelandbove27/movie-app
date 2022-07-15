@@ -26,7 +26,7 @@ header {
 .search-bar .search-icon {
   position: relative;
   bottom: -3px;
-  left: -30px;
+  left: -30px; 
 }
 
 .search-input {

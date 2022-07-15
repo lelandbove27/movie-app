@@ -1,0 +1,9 @@
+Header Component 
+- Current search / catgory
+- Search bar 
+- Login/profile icon (allow users to put their own photo in)
+
+Main Gallery Component
+- images with no spaces 
+
+
